@@ -46,7 +46,7 @@ Rather than marketing furniture as static products, the campaign focuses on spat
 
 - Presentation & Evaluation: Establishing Key Performance Indicators (KPIs), crafting a social media publishing schedule, and assembling the final presentation deck. 
 
->  **Final Deliverable:**
+ **Final Deliverable:**
  - AI-Generated Video Campaign: A collection of short, high-quality promotional videos showcasing room transformations created entirely using AI tools and formatted in multiple aspect ratios.
 
 - Creative Campaign Assets: High-resolution AI interior visuals, audio voiceovers, sound effects, and promotional scripts (Hook ➔ Build ➔ CTA).
@@ -92,7 +92,3 @@ Rather than marketing furniture as static products, the campaign focuses on spat
 - Presentation deck design & formatting
 - Final review and submission.
 
-
-
-### Week 5 — [Title]
-- [Task] 
