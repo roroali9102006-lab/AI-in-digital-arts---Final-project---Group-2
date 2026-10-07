@@ -1,4 +1,4 @@
-# Project Title: Varna Home (home decor and modular furniture brand)
+# Project Title: Domus  (home decor and modular furniture brand)
 ### Project Description:
 A digital content marketing campaign for a modern, sustainable home decor and modular furniture brand inspired by IKEA, created end-to-end using AI tools to showcase smart space optimization and minimalist living.
 
@@ -19,7 +19,7 @@ A digital content marketing campaign for a modern, sustainable home decor and mo
 ---
 
 ##  Project Overview
-- "Varna Home" is a digital content marketing campaign created entirely using artificial intelligence tools for a modern home decor and modular furniture brand. The brand specializes in smart, space-saving, and sustainable interior design solutions for urban living and small spaces.
+- "Domus" is a digital content marketing campaign created entirely using artificial intelligence tools for a modern home decor and modular furniture brand. The brand specializes in smart, space-saving, and sustainable interior design solutions for urban living and small spaces.
 Rather than marketing furniture as static products, the campaign focuses on spatial transformation, ergonomic comfort, and minimalist aesthetics—reconnecting urban audiences with functional, beautiful, and emotionally warm living spaces.
 
 ---
